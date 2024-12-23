@@ -2,11 +2,13 @@
   {
     "tune": "Autumn Leaves",
     "artist": "Hank Jones",
-    "lick": "\"F7\" z2 BcG^G A^F=F_E | \"Bbmaj7\" D2 z2 ||" 
+    "lick": "\"F7\" z2 BcG^G A^F=F_E | \"Bbmaj7\" D2 z2 ||" ,
+    "url": "https://youtu.be/CpB7-8SGlJ0?t=395"
   },
   {
       "tune": "How High The Moon",
       "artist": "Emmet Cohen",
-      "lick": "L:1/8\n\"(A-)\" z2 "D7" ^f=fe^d | \"Gmaj7\" d8 DE-E4 || \"(A-)\" z2 "D7" f_e_Bc | \"Gmaj7\" d8 DE-E4 ||"
+      "lick": "L:1/8\n\"(A-)\" z2 "D7" ^f=fe^d | \"Gmaj7\" d8 DE-E4 || \"(A-)\" z2 "D7" f_e_Bc | \"Gmaj7\" d8 DE-E4 ||",
+      "url": "https://youtu.be/LNE3fN4qRsI?t=292"
   }
 ]
